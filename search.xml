@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>jj</title>
+    <url>/2020/01/15/jj/</url>
+    <content><![CDATA[<p>##jkshfdjkk</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>利用hexo框架+github搭建个人博客</title>
+    <url>/2020/01/14/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>!<br>This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+]]></content>
+      <categories>
+        <category>路由交换</category>
+      </categories>
+      <tags>
+        <tag>博客搭建</tag>
+        <tag>hexo+github搭建博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>分类</title>
+    <url>/categories/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>关于</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>标签</title>
+    <url>/tags/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>相册</title>
+    <url>/photos/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+</search>
